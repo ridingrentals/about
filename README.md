@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
+[![Creative Preview](https://storage.3d.io/535e624259ee6b0200000484/2017-11-04_10-17-45_Wob0j9/Motorrentals.png)](https://blackrockdigital.github.io/startbootstrap-creative/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
 
